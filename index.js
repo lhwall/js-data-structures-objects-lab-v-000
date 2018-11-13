@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-const driver = []
+const driver = {}
 
 function destructivelyUpdateDriverWithKeyAndValue(driver,key, value){
   driver.key = value
